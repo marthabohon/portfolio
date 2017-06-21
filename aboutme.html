@@ -35,7 +35,94 @@ background: lightblue;border: 10px solid blue;
   <h2 style="color:blue;">Reflection</h2>
   <p style="color:purple;">Debugging was troublesome but also interesting. And a little frustrating. Sometimes it just did not seem to make any sense at all, but when we figured out what the error was it was very satisfying, like when Melissa found that we had indented something we shouldnt've, or when I figured out the colors.</p>
 
-  
+    <head>
+
+    <!-- Set the style of the table -->
+    <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Open+Sans">
+
+    <style>
+      body{
+        color: inherit;
+        font-family: 'Open Sans', sans-serif;
+      }
+      table, th, td{
+        border: 2px solid #01426a;
+        border-collapse: collapse;
+        padding: 15px;
+        text-align: center;
+        vertical-align: middle;
+        color: #01426a
+      }
+      th  {
+        background-color: #ece81a
+      }
+      tr:hover {background-color: #ece81a}
+    </style>
+  </head>
+
+  <body>
+
+    <!-- Table starts here-->
+    <div style ="overflow-x:auto;">
+      <table style="width:90%; margin:1em auto">
+
+        <!-- Define the first row of the table -->
+        <tr>
+          <th>Core4 Concept</th>
+          <th>Technical Definition</th>
+          <th>Real-Life Analogy</th>
+          <th>Python Example</th>
+          <th>Scratch Example</th>
+        </tr>
+
+        <!-- Fill in the row for Variables -->
+        <tr>
+        <td><b>Variables</b></td>
+          <td> Something liable to change  </td>
+          <td> Bob is a variable. If I slap Bob, he will react. </td>
+          <td> person_undecided = True </td>
+          <td> Bob </td>
+        </tr>
+
+        <!-- Fill in the row for Loops -->
+        <tr>
+          <td><b>Loops</b></td>
+          <td> A sequence of repeating instructions until one outcome is reached </td>
+          <td> If I put a ripped dollar bill into a vending machine, it will keep putting it out. Put it in, put it out, put it in, put it out. If I use a new dollar bill, the machine will work. </td>
+          <td> person_undecided = True
+while person_undecided:
+user_input = input()
+    if user_input == "Latricia":
+    person_undecided = False
+    print("You decide to catch Latricia outside...")
+        </td>
+          <td>  </td>
+        </tr>
+
+        <!-- Fill in the row for Conditionals -->
+        <tr>
+          <td><b>Conditionals</b></td>
+          <td> If some thing happens, then it will lead to another thing happening </td>
+          <td> If I hit Bob, Bob will be angry and his hair will fall off. </td>
+          <td> if user_input == "run":
+          
+                print("You run to safety, saving yourself from a savage beating.") </td>
+          <td>  </td>
+        </tr>
+
+        <!-- Fill in the row for Functions -->
+        <tr>
+          <td><b>Functions</b></td>
+          <td> Code that is responsible for a certain process. </td>
+          <td> If I work a hours, I get 1.5a days of vacation. </td>
+          <td> VariableName = SomeExpression </td>
+          <td>  </td>
+        </tr>
+
+      </table>
+    </div>
+    
+  </body>
  
   </body>
 </html>
