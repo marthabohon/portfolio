@@ -3,6 +3,9 @@
 <center><title>Martha Bohon</title><center>
 <img src="Tried" alt="A robot and code" style="float:right;width:450px;height:600px;">
 </head>
+
+<img src="ROBIT" alt="ROBIT" style="float:center;width:450px;height:600px;">
+</head>
   
 <img src="Traied" alt="A robot and code" style="float:left;width:450px;height:600px;">
 </head>
@@ -35,6 +38,8 @@ background: lightblue;border: 10px solid blue;
 
 <body>
   
+  <h1 style="color:blue;float: center;">ROBOT</h1>
+  <p style="color:purple;"> This code pretty much just opens up more channels of energy in the breadboard. They were not much use though. </p>
  
  
   </body>
