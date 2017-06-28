@@ -39,7 +39,7 @@ background: lightblue;border: 10px solid blue;
 <body>
   
   <h1 style="color:blue;float: center;">ROBOT</h1>
-  <p style="color:purple;"> This code pretty much just opens up more channels of energy in the breadboard. They were not much use though. </p>
+  <p style="color:purple;"> This code pretty much just opens up more channels of energy in the breadboard. They were not much use though. We learned yesterday how to make a circuit and how to make a LED light up, and how we should and shouldn't format the wires. Today we could not really implement much more than the one LED because of issues with the breadboard. </p>
  
  
   </body>
