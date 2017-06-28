@@ -1,13 +1,13 @@
 <html>
 <head> 
 <center><title>Martha Bohon</title><center>
-<img src="Tried" alt="A robot and code" style="float:right;width:450px;height:600px;">
+<img src="https://marthabohon.github.io/portfolio/Tried.jpeg" alt="A robot and code" style="float:right;width:450px;height:600px;">
 </head>
 
 <img src="ROBIT" alt="https://marthabohon.github.io/portfolio/ROBIT.jpg" style="float:center;width:450px;height:600px;">
 </head>
   
-<img src="Traied" alt="A robot and code" style="float:left;width:450px;height:600px;">
+<img src="https://marthabohon.github.io/portfolio/Traied.jpg" alt="A robot and code" style="float:left;width:450px;height:600px;">
 </head>
 
 
